@@ -9,3 +9,4 @@ This project explores U.S. county-level COVID-19 total_cases data. The data was 
 - [📊 Download Dataset (CSV)](COVID-19_Community_Profile_Report_-_County-Level.csv)
 
 ## Project 2 - NYC safety investigation: Shooting incidents and Homeless 311 complaints
+- [📘 View Jupyter Notebook](project2.ipynb)
