@@ -5,6 +5,8 @@ _build/
 # make sure Labs aren't included
 Lab*.ipynb
 lab*.ipynb
+*.csv
+
 
 # virtual environments
 .venv/
