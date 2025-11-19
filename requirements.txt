@@ -1,6 +1,8 @@
 ipykernel
 pandas
 plotly
+matplotlib
+seaborn
 
 # needed for plotly
 nbformat
