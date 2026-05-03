@@ -10,3 +10,6 @@ This project explores U.S. county-level COVID-19 total_cases data. The data was 
 
 ## Project 2 - NYC safety investigation: Shooting incidents and Homeless 311 complaints
 - [📘 View Jupyter Notebook](project2.ipynb)
+
+## U.S. Weekly WTI & Petroleum Monitor Project
+- [🛢️ View Project Writeup](US_Oil_Monitor.md)
