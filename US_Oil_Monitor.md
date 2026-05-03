@@ -16,7 +16,7 @@ One key challenge we faced was making the project both technically functional an
 
 ## What I Learned
 
-This project helped me better understand how computational tools can be used to communicate complex policy and market issues. Beyond coding, I learned the importance of building data products that are interpretable, visually clear, and useful for decision-making. .This is my first app project and now I have so many ideas in the mind. In the future I want to build a personal website that contain all the recipes I recorded for bakery and cooking! This two-semester lecture let me gain coofidence in vibe coding! Really Appreciate everything!
+This project helped me better understand how computational tools can be used to communicate complex policy and market issues. Beyond coding, I learned the importance of building data products that are interpretable, visually clear, and useful for decision-making. This is my first app project and now I have so many ideas in the mind. In the future I want to build a personal website that contain all the recipes I recorded for bakery and cooking! This two-semester lecture let me gain coofidence in vibe coding! Really Appreciate everything!
 
 ## Project Links
 
