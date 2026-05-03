@@ -2,9 +2,9 @@
 
 ## Tracking the Relationship Between U.S. Petroleum Prices, WTI Crude Oil Prices, and External Geopolitical Shocks
 
-For our Advanced Computing project, our team built an interactive Streamlit web application to explore the relationship between weekly U.S. petroleum product supplied and WTI crude oil prices. The project was motivated by a simple but important question: how do energy market indicators move over time, and how might external shocks such as geopolitical conflicts affect oil prices and eventually consumer-facing gasoline prices? We wanted to create a tool that was not only analytical, but also easy for users to navigate and interpret.
+For our Advanced Computing project, our team built an interactive Streamlit web application to explore the relationship between weekly U.S. petroleum prices and WTI crude oil prices and examine the external shocks of geopolitical events behind the prices. The project was motivated by a simple but important question: how do energy market indicators move over time, and how might external shocks such as geopolitical conflicts affect oil prices and eventually consumer-facing gasoline prices? We wanted to create a tool that was not only analytical, but also easy for users to navigate and interpret.
 
-The app integrates data from the U.S. Energy Information Administration (EIA), including weekly petroleum product supplied and WTI crude oil spot prices. We also incorporated external event context using GDELT to connect market movements with geopolitical and conflict-related events. The final app includes multiple pages: a main monitoring page for petroleum price trends, a WTI-focused page for crude oil price movements, and an event context page that helps users understand how geopolitical shocks may transmit through oil markets.
+The app integrates data from the U.S. Energy Information Administration (EIA), including weekly petroleum prices and WTI crude oil spot prices. We also incorporated external event context using GDELT to connect market movements with geopolitical and conflict-related events. The final app includes multiple pages: a main monitoring page for petroleum price trends, a WTI-focused page for crude oil price movements, and an geopolitical event context page that helps users understand how geopolitical shocks may transmit through oil markets.
 
 ## My Contribution
 
