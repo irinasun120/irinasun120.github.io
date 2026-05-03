@@ -34,7 +34,7 @@ This project helped me better understand how computational tools can be used to 
 
 ### Event Context and External Shocks Page
 
-```{image} conflict.png
+```{image} conflict contect.png
 :alt: Event context page
 :width: 800px
 ```
