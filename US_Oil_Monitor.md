@@ -27,14 +27,14 @@ This project helped me better understand how computational tools can be used to 
 
 ### Homepage: Petroleum Supply Monitor
 
-```{image} app.png
+```{image} images/app.png
 :alt: Homepage of the U.S. Oil Monitor app
 :width: 800px
 ```
 
 ### Event Context and External Shocks Page
 
-```{image} conflict contect.png
+```{image} images/conflict.png
 :alt: Event context page
 :width: 800px
 ```
