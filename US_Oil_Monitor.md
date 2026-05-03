@@ -1,6 +1,6 @@
 # U.S. Weekly WTI & Petroleum Monitor Project
 
-## Tracking the Relationship Between U.S. Petroleum Supply, WTI Crude Oil Prices, and External Shocks
+## Tracking the Relationship Between U.S. Petroleum Prices, WTI Crude Oil Prices, and External Geopolitical Shocks
 
 For our Advanced Computing project, our team built an interactive Streamlit web application to explore the relationship between weekly U.S. petroleum product supplied and WTI crude oil prices. The project was motivated by a simple but important question: how do energy market indicators move over time, and how might external shocks such as geopolitical conflicts affect oil prices and eventually consumer-facing gasoline prices? We wanted to create a tool that was not only analytical, but also easy for users to navigate and interpret.
 
