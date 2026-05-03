@@ -32,9 +32,9 @@ This project helped me better understand how computational tools can be used to 
 :width: 800px
 ```
 
-### Event Context and External Shocks Page
+### Geopolitical Context Page
 
-```{image} images/conflict.png
+```{image} images/context.png
 :alt: Event context page
 :width: 800px
 ```
