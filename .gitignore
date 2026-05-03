@@ -12,4 +12,3 @@ lab*.ipynb
 .venv/
 myenv/
 
-*.png
