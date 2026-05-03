@@ -25,7 +25,7 @@ This project helped me better understand how computational tools can be used to 
 
 ## Sample Screenshots
 
-### Homepage: Petroleum Supply Monitor
+### Homepage: Geopolitical Conflict & U.S. Energy Prices 
 
 ```{image} images/app.png
 :alt: Homepage of the U.S. Oil Monitor app
